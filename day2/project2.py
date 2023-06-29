@@ -40,3 +40,19 @@ strConvert=str(choice);
 num1=int(strConvert[0]);
 num2=int(strConvert[1]);
 print(num1+num2);
+
+    #   mathematical operation in python 
+    # 1+2;
+    # 2-4
+    # 3*6;
+    # 4/2 returns a float when you have divison
+    # 3 ** 4  3 raised to the power 4
+    #  mathematician lovees python because it is highly optimized for maths
+    # PEMDASLR (Parenthesis, Exponents, multiplication, division, addition, subtraction); (), **, */, +  (FROM LEFT TO RIGHT)
+    
+print(3 * 3 + 3 / 3 - 3);
+# In other to print 3 we hahve the following'
+
+print(3*(3+3)/3-3); 
+    
+    
