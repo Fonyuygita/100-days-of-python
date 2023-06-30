@@ -56,3 +56,19 @@ print(3 * 3 + 3 / 3 - 3);
 print(3*(3+3)/3-3); 
     
     
+    # to round number in python is prettfy easy, just use the round function
+print(round(3/5)) 
+
+# or
+
+# print(4//3);  is called the floor division, checking the type of data type will give an integer
+
+# f string make it easy to mix string and different characters
+score=0;
+height=1.4;
+isWinning=true;
+
+# how to use f strings
+# add character f in front of a string
+
+print(f" Your score is {score} ")
